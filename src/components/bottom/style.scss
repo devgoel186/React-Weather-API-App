@@ -1,0 +1,26 @@
+.bottom-container{
+    background: linear-gradient(180deg, #6abeca 0%, rgba(58, 98, 104, 0.2) 100%), url(../../resources/images/sunny-weather1.jpeg) center no-repeat;
+    display: flex;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 10px 10px 20px;
+    padding: 1%;
+
+    .text{
+      display: block;
+      text-align: center;
+      font-size: 14px;
+      color: #fff;
+      text-shadow: 1px 1px 1px;
+    }
+
+    img {
+      display: block;
+      height: 50px;
+      width: 50px;
+    }
+}
