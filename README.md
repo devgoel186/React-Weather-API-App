@@ -1,4 +1,4 @@
-#React-Weather-App
+# React-Weather-App
 A single page web application that uses **ReactJS framework** in unison with **WEATHERSTACK API** to give details of temperature and weather conditions for user-specidied location. This is achieved by rendering data into dynamic components of the application, the data being returned as a JSON file by the API.<br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
