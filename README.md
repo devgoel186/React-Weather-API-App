@@ -2,7 +2,7 @@
 A single page web application that uses **ReactJS framework** in unison with [WEATHERSTACK API](https://weatherstack.com/) to give details of temperature and weather conditions for user-specified location. This is achieved by rendering data into dynamic components of the application, the data being returned as a JSON file by the API.<br />
 
 <p align="center">
-  <img width="460" height="300" src="reactapp.gif">
+  <img width="800" src="reactapp.gif">
 </p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
